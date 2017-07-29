@@ -99,6 +99,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 75px 0;
     background:fff;
     /*background-image: url("/img/b.jpg") !important;*/
+    background-color: transparent !important;
 }
 #page-profile .profile {
     border: 5px solid #333;
